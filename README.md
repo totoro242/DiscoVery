@@ -25,6 +25,6 @@ Pour faire des requètes en base, la couche DAO (Data Access Object) invoque la 
 
 Couche JPA (Java Persistence API) / Hibernate :
 ----------------------------------------------
-C'est avec JPA via le framework Hibernate et JDBC (Java Database Connectivity) que l'accés à la base et la persitence sont rendus possibles (récupération et mise à jour des données).
+C'est avec JPA via le framework Hibernate et JDBC (Java Database Connectivity) que l'accés à la base et la persistence sont rendus possibles (récupération et mise à jour des données).
 
 
