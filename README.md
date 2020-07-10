@@ -28,4 +28,3 @@ Couche JPA (Java Persistence API) / Hibernate :
 C'est avec JPA via le framework Hibernate et JDBC (Java Database Connectivity) que l'accés à la base et la persitence sont rendus possibles (récupération et mise à jour des données).
 
 
-
